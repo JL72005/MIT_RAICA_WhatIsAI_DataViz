@@ -5,9 +5,9 @@ two data visualizations based on student responses to the question "What is AI"?
   * second one coming soon!
 ## Files
 ### data_viz2_v1.R
-This is the second R-Shiny File for the data set that contains 151 responses from students. The dashboard composed of two graphs:
-  * a rectangular distribution that showcases the counts and percentages of each tag
-  * all 150 responses plotted as circles on a 5 x 10 grid that can be filtered for by tag and by tag count. The bigger the circle is, the more tags the observations had. Hover over the circles to see the tags and the response.
+This is the second R-Shiny File for the data set that contains 152 responses from students. The dashboard composed of two graphs:
+  * a bar graph that showcases the total counts of conceptual categories tagged across all responses.
+  * all 150 responses plotted as tile on a 15 x 10 grid that can be filtered for by tag and by tag count. Each tile represents one response given and the color of the tile represents the conceptual category that appears first in the response. The numbers represent how many conceptual categories were coded for that single response. Hover over the tiles to see the tags and the response.
 
 ### v7final.R
 This is the other data visualization that plots seven student responses to the question over five administrations. The dashboard is composed of two parts: 

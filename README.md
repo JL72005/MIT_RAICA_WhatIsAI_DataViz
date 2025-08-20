@@ -4,7 +4,7 @@ two data visualizations based on student responses to the question "What is AI"?
   * https://jl140miteducation.shinyapps.io/RAICA_DataViz_v7/
   * second one coming soon!
 ## Files
-### data_viz2_v1.R
+### data_vix2_v3.R
 This is the second R-Shiny File for the data set that contains 152 responses from students. The dashboard composed of two graphs:
   * a bar graph that showcases the total counts of conceptual categories tagged across all responses.
   * all 150 responses plotted as tile on a 15 x 10 grid that can be filtered for by tag and by tag count. Each tile represents one response given and the color of the tile represents the conceptual category that appears first in the response. The numbers represent how many conceptual categories were coded for that single response. Hover over the tiles to see the tags and the response.

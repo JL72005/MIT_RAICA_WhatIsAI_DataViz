@@ -2,7 +2,7 @@
 two data visualizations based on student responses to the question "What is AI"?
 - Note: these files are R-shiny applications that are already deployed on the web through these links:
   * https://jl140miteducation.shinyapps.io/RAICA_DataViz_v7/
-  * second one coming soon!
+  * https://jl140miteducation.shinyapps.io/What_is_AI_150_responses/
 ## Files
 ### data_vix2_v3.R
 This is the second R-Shiny File for the data set that contains 152 responses from students. The dashboard composed of two graphs:
